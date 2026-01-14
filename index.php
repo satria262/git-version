@@ -1,3 +1,4 @@
 <?php
-$siswa = ["satria", "farid", "diyo", "rava"]
+$siswa = ["satria", "farid", "diyo", "rava"];
+$teks = "ini teks";
 ?>
